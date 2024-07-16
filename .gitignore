@@ -1,0 +1,10 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore all h5, joblib, and pickle files
+*.h5
+*.joblib
+*.pickle
